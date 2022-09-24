@@ -6,6 +6,7 @@
 </a>
 
 [![GitHub](https://img.shields.io/github/license/phaynes/mechanisms)](https://github.com/phaynes/mechanisms/blob/master/LICENSE)
+![Code Quality: Java](https://github.com/phaynes/mechanisms/actions/workflows/CodeQL.yml/badge.svg)
 
 mechanisms provides a set of data structures and examples  that are a common need when building high-performance, secure
 applications in Java. 
